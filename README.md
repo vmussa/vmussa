@@ -10,7 +10,7 @@ My name is Vítor Mussa. I'm a brazilian software developer and a data engineer 
   - Apache Spark / PySpark for big data processing
   - Kubernetes for running end-to-end big data pipelines (including Apache Spark)
   - Apache Superset for general and collective data visualization platforms development
-  - Elasticsearch for text-based data analytics
+  - Elasticsearch and Kibana / Elastic Stack for text-based data analytics and visualization
 
 - 📫 Feel free to reach me on:
   - [@vitormussa](https://twitter.com/vitormussa) on twitter
