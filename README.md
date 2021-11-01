@@ -2,7 +2,7 @@
 My name is Vítor Mussa. I'm a brazilian software developer and a data engineer :)
 
 - 🔭 I’m currently working on:
-  - [basedosdados.org](https://basedosdados.org)'s Python API and CLI tool and its infrastructure in general, using a lot of `CKAN`, `pytest`, `OOP`, `git`, `docker` and more.
+  - [basedosdados.org](https://basedosdados.org)'s Python API and CLI tool alongside with the organization's system infrastructure in general, using a lot of `CKAN`, `pytest`, `OOP`, `git`, `docker`, `pandas-gbq` and more.
   - [LABHD/UFBA](https://labhd.ufba.br)'s main research project's data pipeline, using PostgreSQL and Python with Pyrogram for massive Telegram data ingestion.
   - My master's dissertation research, using topic modeling to discover sociologically interesting hidden subjects in large social media text data.
 
