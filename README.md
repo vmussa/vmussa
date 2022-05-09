@@ -1,6 +1,7 @@
 ### Hello there!
 My name is Vítor Mussa. I'm a brazilian software developer and data engineer :)
 
+<!--
 - 🔭 I’m currently working on:
   - [basedosdados.org](https://basedosdados.org)'s Python API and CLI tool alongside with the organization's system infrastructure in general, using a lot of `CKAN`, `pytest`, `OOP`, `git`, `Docker`, `pandas-gbq`, and more.
   - [LABHD/UFBA](https://labhd.ufba.br)'s main research project's data pipeline, using `PostgreSQL`, `Docker`, `dbt` and Python with `Pyrogram` for massive Telegram data ingestion.
@@ -11,6 +12,7 @@ My name is Vítor Mussa. I'm a brazilian software developer and data engineer :)
   - Kubernetes for running end-to-end big data pipelines (including Apache Spark, but also MinIO, Airflow, ClickHouse, Superset and more)
   - Apache Superset for general and collective data visualization platforms development
   - Elasticsearch and Kibana / Elastic Stack for text-based data analytics and visualization
+-->
 
 - 📫 Feel free to reach me on:
   - [@vitormussa](https://twitter.com/vitormussa) on twitter
