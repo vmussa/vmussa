@@ -1,5 +1,5 @@
 ### Hello there!
-My name is Vítor Mussa. I'm a brazilian software developer and data engineer :)
+My name is Vítor Mussa. I'm a brazilian software engineer currently working with microservices, messaging systems, and infrastructure (k8s) for data and ML applications at A de Agro.
 
 <!--
 - 🔭 I’m currently working on:
